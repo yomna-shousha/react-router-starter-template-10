@@ -3,7 +3,7 @@
 // Runtime types generated with workerd@1.20250617.0 2025-10-08 nodejs_compat
 declare namespace Cloudflare {
 	interface Env {
-		VALUE_FROM_CLOUDFLARE: "Hello from Cloudflare";
+		VALUE_FROM_CLOUDFLARE: "Hello there from Cloudflare";
 	}
 }
 interface Env extends Cloudflare.Env {}
